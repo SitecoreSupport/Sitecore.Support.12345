@@ -55,21 +55,27 @@
     </Reference>
     <Reference Include="Sitecore.XA.Foundation.IoC">
       <HintPath>..\..\lib\Sitecore.XA.Foundation.IoC.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.XA.Foundation.LocalDatasources">
       <HintPath>..\..\lib\Sitecore.XA.Foundation.LocalDatasources.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.XA.Foundation.Multisite">
       <HintPath>..\..\lib\Sitecore.XA.Foundation.Multisite.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.XA.Foundation.Presentation">
       <HintPath>..\..\lib\Sitecore.XA.Foundation.Presentation.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.XA.Foundation.SitecoreExtensions">
       <HintPath>..\..\lib\Sitecore.XA.Foundation.SitecoreExtensions.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.XA.Foundation.Variants.Abstractions">
       <HintPath>..\..\lib\Sitecore.XA.Foundation.Variants.Abstractions.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Drawing" />
